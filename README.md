@@ -2,8 +2,7 @@
 
 [1]	“Evolutionary Event-Driven Architecture for Accelerated Digital Transformation”, Presented at Monthly IBM GBS Architecture Forum, July 8, 2021. https://www.slideshare.net/sipcic/evolutionary-evntdrivenarchitectureforaccelerateddigitaltransformation
 
-
-![](playback/GBSArchitectureForum-20210708.mp4)
+Playback is available here: https://ibm.ent.box.com/embed/s/7qzqngjbtqgnku0zhpk3tr0j997hiza8
 
 [2]	“AWS Based Enterprise Digital Transformation Platform”, SlideShare, December 12, 2020. https://de.slideshare.net/sipcic/aws-based-digitaltransformationplatform 
  
