@@ -1,7 +1,10 @@
 # Slobodan Sipcic's Recent Publications
 
 [1]	“Evolutionary Event-Driven Architecture for Accelerated Digital Transformation”, Presented at Monthly IBM GBS Architecture Forum, July 8, 2021. https://www.slideshare.net/sipcic/evolutionary-evntdrivenarchitectureforaccelerateddigitaltransformation
- 
+
+
+![](playback/GBSArchitectureForum-20210708.mp4)
+
 [2]	“AWS Based Enterprise Digital Transformation Platform”, SlideShare, December 12, 2020. https://de.slideshare.net/sipcic/aws-based-digitaltransformationplatform 
  
 [3]	“How Toyota Financial. Services use ICP on AWS for Reaching New Levels of Innovation and Competitiveness”, Think 2019, San Francisco, February 13, 2019. https://de.slideshare.net/sipcic/toyota-financial-services-digital-transformation-think-2019
