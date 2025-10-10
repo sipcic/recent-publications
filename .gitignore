@@ -1,0 +1,163 @@
+# ======================================
+# OS-specific files
+# ======================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows / Microsoft OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ======================================
+# Microsoft Office temporary files
+# ======================================
+~$*
+*.tmp
+*.bak
+*.wbk
+*.obj
+*.pdb
+*.user
+*.suo
+*.cache
+*.manifest
+
+# ======================================
+# Visual Studio / .NET
+# ======================================
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.vspscc
+*.vssscc
+.vs/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]est[Rr]esults/
+*.tlog
+*.vscode/
+*.dbmdl
+*.psess
+*.vsp
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+
+# ======================================
+# Java and Maven build artifacts
+# ======================================
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.log
+
+# ======================================
+# Spring Boot and temporary files
+# ======================================
+*.pid
+*.seed
+*.out
+spring.log
+
+# ======================================
+# IntelliJ IDEA
+# ======================================
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# ======================================
+# VS Code
+# ======================================
+.vscode/
+.history/
+
+# ======================================
+# Eclipse
+# ======================================
+.project
+.classpath
+.settings/
+bin/
+
+# ======================================
+# Node.js (if frontend modules)
+# ======================================
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# ======================================
+# Python (if scripts included)
+# ======================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env/
+venv/
+.envrc
+
+# ======================================
+# Logs and temp files
+# ======================================
+logs/
+*.log
+tmp/
+*.tmp
+*.swp
+
+# ======================================
+# Environment and config files
+# ======================================
+.env
+*.local
+application-*.yml
+application-*.properties
+
+# ======================================
+# AWS / Credentials (NEVER commit)
+# ======================================
+*.pem
+*.key
+*.crt
+*.csr
+.aws/
+
+# ======================================
+# Office / Microsoft temp and lock files
+# ======================================
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+*.bak
+*.old
+~WRL*.tmp
+
+# ======================================
+# Backup / archive
+# ======================================
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
